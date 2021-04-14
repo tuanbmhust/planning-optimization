@@ -10,3 +10,4 @@ out/production/
 *.class
 /src/pqd
 hs_err_pid15544.log
+.vscode
