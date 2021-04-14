@@ -1,0 +1,12 @@
+/bin/
+/lib/
+out/
+/.classpath
+/.project
+.idea/
+/planningoptimization.iml
+out/production/
+/*.iml
+*.class
+/src/pqd
+hs_err_pid15544.log
